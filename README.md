@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:10261b,100:1a7f37&height=190&section=header&text=Caio%20Apol%C3%B4nio&fontSize=58&fontColor=f0f6fc&fontAlignY=36&desc=Full-stack%20Developer%20%C2%B7%20Fortaleza%2C%20Brazil&descSize=18&descAlignY=58&animation=fadeIn" alt="Caio Apolônio · Full-stack Developer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:10261b,100:1a7f37&height=190&section=header&text=Caio%20Apol%C3%B4nio&fontSize=58&fontColor=f0f6fc&fontAlignY=36&desc=Full-stack%20Developer%20%C2%B7%20Fortaleza%2C%20Brazil&descSize=18&descAlignY=58" alt="Caio Apolônio · Full-stack Developer">
 
 <p align="center">
   <picture>
