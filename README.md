@@ -76,7 +76,18 @@ const caio = {
 | [**devidence**](https://github.com/caioapolonio/devidence) | Turns verifiable GitHub activity into an editable professional report and a 16:9 PDF <sub>(WIP)</sub> | Next.js · TypeScript |
 | [**magic-bg-remover**](https://caioapolonio.github.io/magic-bg-remover/) | Drag-and-drop image background removal, fully in the browser | React · Vite · Tailwind |
 
-## 🐍 Contributions
+## 📈 GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=caioapolonio&background=00000000&border=30363D&stroke=30363D&ring=7EE787&fire=7EE787&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=7EE787&sideLabels=8B949E&dates=8B949E&card_width=460">
+    <img height="180" alt="Contribution streak" src="https://streak-stats.demolab.com?user=caioapolonio&background=00000000&border=D0D7DE&stroke=D0D7DE&ring=1A7F37&fire=1A7F37&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1A7F37&sideLabels=59636E&dates=59636E&card_width=460">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caioapolonio&layout=compact&langs_count=6&hide=css,html&bg_color=00000000&title_color=7ee787&text_color=e6edf3&border_color=30363d&card_width=320">
+    <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioapolonio&layout=compact&langs_count=6&hide=css,html&bg_color=00000000&title_color=1a7f37&text_color=1f2328&border_color=d0d7de&card_width=320">
+  </picture>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caioapolonio/caioapolonio/output/github-snake-dark.svg">
