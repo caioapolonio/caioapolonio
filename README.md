@@ -11,7 +11,6 @@
   <a href="https://caioapolonio.dev"><img src="https://img.shields.io/badge/Portfolio-caioapolonio.dev-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=7ee787" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/caioapolonio"><img src="https://img.shields.io/badge/LinkedIn-caioapolonio-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" alt="LinkedIn"></a>
   <a href="mailto:caio@caioapolonio.dev"><img src="https://img.shields.io/badge/Email-caio@caioapolonio.dev-1a7f37?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=caioapolonio&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 ---
@@ -49,12 +48,24 @@ const caio = {
 
 ## 🛠️ Tech stack
 
-| | |
-| :-- | :-- |
-| **Front-end** | <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,tailwind,alpinejs" height="40" alt="TypeScript, JavaScript, React, Next.js, Svelte, Tailwind, Alpine.js"> |
-| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,bun" height="40" alt="Node.js, PHP, Laravel, Bun"> |
-| **Data & infra** | <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,vercel,git" height="40" alt="PostgreSQL, MySQL, Supabase, Docker, Vercel, Git"> |
-| **Mobile & native** | <img src="https://skillicons.dev/icons?i=react,swift,kotlin" height="40" alt="React Native, Swift, Kotlin"> <sub>React Native/Expo · SwiftUI · Jetpack Compose</sub> |
+<table>
+  <tr>
+    <td><b>Front-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,tailwind,alpinejs" height="40" alt="TypeScript, JavaScript, React, Next.js, Svelte, Tailwind, Alpine.js"></td>
+  </tr>
+  <tr>
+    <td><b>Back-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,php,laravel,bun" height="40" alt="Node.js, PHP, Laravel, Bun"></td>
+  </tr>
+  <tr>
+    <td><b>Data & infra</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,vercel,git" height="40" alt="PostgreSQL, MySQL, Supabase, Docker, Vercel, Git"></td>
+  </tr>
+  <tr>
+    <td><b>Mobile & native</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,swift,kotlin" height="40" alt="React Native, Swift, Kotlin"> <sub>React Native/Expo · SwiftUI · Jetpack Compose</sub></td>
+  </tr>
+</table>
 
 ## 🚀 Featured projects
 
