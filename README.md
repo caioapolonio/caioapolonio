@@ -71,6 +71,7 @@ const caio = {
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| [**Eleições 2026**](https://eleicoes-2026.caioapolonio.dev) | Brazil's 2026 presidential first round joined with 2022 Census data in all 5,570 municipalities: map, scatter and regional correlations ([source](https://github.com/caioapolonio/eleicoes-2026)) | Astro · d3 · Python · Docker |
 | [**Remix Songs**](https://remix-songs.vercel.app) | Browser audio remixer: split, layer and remix tracks right in the browser | Next.js · Tone.js · PostgreSQL · Better Auth |
 | [**aloft**](https://github.com/caioapolonio/aloft) | Tiny open-source menu-bar app that keeps any macOS window always on top | Swift · AppKit |
 | [**devidence**](https://github.com/caioapolonio/devidence) | Turns verifiable GitHub activity into an editable professional report and a 16:9 PDF <sub>(WIP)</sub> | Next.js · TypeScript |
